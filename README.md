@@ -3,7 +3,7 @@
 Public repository of the **Race, Citizenship, and Labour in the US** (RCLinUS) project in historical sociology.
 
 ## Researchers
-Dr. Liliana Riga (University of Edinburgh).
+Dr. Liliana Riga (University of Edinburgh).  
 Yuji Shimohira-Calvo (University of Edinburgh).
 
 # Introduction
