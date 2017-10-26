@@ -1,6 +1,10 @@
 
-# ALRinUS
-Public repository of the **Alien Labour Represion in the US** (ALRinUS) project.
+# RCLinUS
+Public repository of the **Race, Citizenship, and Labour in the US** (RCLinUS) project in historical sociology.
+
+## Researchers
+Dr. Liliana Riga (University of Edinburgh).
+Yuji Shimohira-Calvo (University of Edinburgh).
 
 # Introduction
 
@@ -8,10 +12,10 @@ This on-going project curates an original, large-scale and rare historical data 
 
 The data allow us to intersectionally explore:
 
-1. Race/ethnicity,
+1. race/ethnicity,
 2. naturalization/citizenship status,
 3. sector of the economy or industry,
-4. detailed geographical dispersion of strikes over time, and
+4. detailed geographical dispersion of strikes over time,
 5. a proxy measure for strike repression through number of (new) workers before/after the strike or lockout.
 
 These data are complemented with data on underlying racial/ethnic composition at the state level, which we derive from the *Integrated Public Use Microdata Series* (IPUMS) and the Millenial Edition of *Historical Statistics of the United States*.
