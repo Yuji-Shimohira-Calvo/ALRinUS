@@ -5,19 +5,19 @@ permalink:           pretty
 #relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:               RCLinUS
+tagline:             'A project in historical sociology'
+description:         'Race, Citizenship, and Labour in the US is a project in historical sociology based at the University of Edinburgh.'
 #url:                 http://lanyon.getpoole.com
 baseurl:             https://yuji-shimohira-calvo.github.io/RCLinUS/
 paginate:            5
 gems:                [jekyll-paginate]
 
 # About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+#author:
+  #name:              Mark Otto
+  #url:               https://twitter.com/mdo
+  #email:             markdotto@gmail.com
 
 # Custom vars
 version:             1.0.0
