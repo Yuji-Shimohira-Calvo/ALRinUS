@@ -16,5 +16,6 @@ The data allow us to intersectionally explore:
 These data are complemented with data on underlying racial/ethnic composition at the state level, which we derive from the *Integrated Public Use Microdata Series* (IPUMS) and the Millennial Edition of *Historical Statistics of the United States*.
 
 The researchers in this project are:
+
 Dr. Lilliana Riga (University of Edinburgh)  
 Yuji Shimohira-Calvo (University of Edinburgh)
