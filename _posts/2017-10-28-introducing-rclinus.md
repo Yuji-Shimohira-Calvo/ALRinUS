@@ -17,5 +17,5 @@ These data are complemented with data on underlying racial/ethnic composition at
 
 The researchers in this project are:
 
-Dr. Lilliana Riga (University of Edinburgh)  
+Dr. Liliana Riga (University of Edinburgh)  
 Yuji Shimohira-Calvo (University of Edinburgh)
