@@ -1,0 +1,27 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Setup
+title:               RCLinUS
+tagline:             'A project in historical sociology'
+description:         'Race, Citizenship, and Labour in the US is a project in  historical sociology based at the University of Edinburgh.'
+baseurl:             https://yuji-shimohira-calvo.github.io/RCLinUS/
+paginate:            5
+plugins:             [jekyll-paginate]
+
+# About/contact
+#author:
+  #name:              Mark Otto
+  #url:               https://twitter.com/mdo
+  #email:             markdotto@gmail.com
+
+# Custom variables
+lastupdate:             2017.10.29
+repo:                   https://github.com/Yuji-Shimohira-Calvo/RCLinUS
